@@ -1,10 +1,10 @@
 👋 Hello, I'm Ravi!
 
-🚀 8 years of experience as a Node.js Developer, passionate about building scalable, efficient, and high-performing applications.
+🚀 9 years of experience as a Node.js/Nest.js Developer, passionate about building scalable, efficient, and high-performing applications.
 
 💻 Expertise in developing RESTful APIs, web applications, and microservices using Node.js and related frameworks such as Express.js.
 
-⚙️ Proficient in handling databases like MongoDB, Cassandra, and Redis, and integrating them with Node.js applications.
+⚙️ Proficient in handling databases like MongoDB, MySQL, Cassandra, and Redis, and integrating them with Node.js applications.
 
 🌐 Good knowledge of front-end technologies including HTML, CSS, JavaScript, and modern JS frameworks like React or Angular.
 
